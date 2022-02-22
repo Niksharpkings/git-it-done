@@ -1,2 +1,2 @@
 # git-it-done
-module 6 UCLA Extension project
+Module 6 UCLA Extension fullstack Web dev coding bootcamp project
